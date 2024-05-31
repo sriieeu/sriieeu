@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sriieeu
+- 👋 Hi, I’m sri
 - 👀 I’m interested in Machine Learning and Block Chain
 - 🌱 I’m currently learning  Machine Learning
 
