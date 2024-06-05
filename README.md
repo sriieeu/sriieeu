@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sri
-- 👀 I’m interested in Machine Learning and Block Chain
-- 🌱 I’m currently learning  Machine Learning
+- 👀 I’m interested in Machine Learning and Full Stack Dev
+- 🌱 I’m currently learning  Full Stack Dev
 
 <!---
 sriieeu/sriieeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
