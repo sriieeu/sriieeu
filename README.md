@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sri
-- 👀 I’m interested in Machine Learning and Full Stack Dev
+- 👀 I’m interested in Machine Learning , Deep Learning , Cryptography  and Full Stack Dev
 - 🌱 I’m currently learning  Full Stack Dev
 
 <!---
