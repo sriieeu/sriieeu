@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sri
-- 👀 I’m interested in Machine Learning ,Cryptography  and Full Stack Dev
+- 👀 I’m interested in Networking , Cryptography , Full Stack Developer and DevOps builds 
 - 🌱 LeetCode
 
 <!---
