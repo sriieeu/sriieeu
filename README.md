@@ -1,2 +1,2 @@
-- 👋 Hi, I’m sri
+-  Hi, I’m sri
 
